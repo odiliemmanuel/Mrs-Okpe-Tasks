@@ -1,3 +1,5 @@
+package Java.MrsOkpe;
+
 import java.util.Scanner;
     public class TaskTwo {
         public static void main(String...Odili){

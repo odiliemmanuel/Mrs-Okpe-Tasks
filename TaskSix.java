@@ -1,3 +1,5 @@
+package Java.MrsOkpe;
+
 import java.util.Arrays;
 public class TaskSix {
     public static void main(String...Odili){

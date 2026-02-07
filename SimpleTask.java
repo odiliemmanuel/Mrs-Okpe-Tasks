@@ -1,4 +1,6 @@
-import java.util.Arrays;  
+package Java.MrsOkpe;
+
+import java.util.Arrays;
   public class SimpleTask {
         public static void main(String...Odili){
 

@@ -1,5 +1,7 @@
-public class TaskThree{
-   public static void main(String...Odili){
+package Java.MrsOkpe;
+
+public class Task3 {
+   public static void main(String[] args){
 
    
         int square = squareNumber(3,2);
